@@ -9,7 +9,7 @@ This project is solely developed for the people residing in Bangladesh. Banglade
 
 ☛ UI & Graphical Designing - Pahlwan Rabiul Islam & Arafat Wasiullah
 
-# Note
+# Notes
 This app is in beta version. The "News Feed" feature of this app is still not coded. We thought to provide live notices & newses of Bangladesh Government into this feature.
 
 # License
