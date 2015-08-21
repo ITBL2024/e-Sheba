@@ -1,0 +1,13 @@
+.ui-btn {  
+    white-space: normal !important;
+    text-align: center;
+ }
+
+#main .ui-btn{
+	height: 80px !important;
+	text-align: center;
+}
+
+.ui-btn-inner {
+    padding: 0;
+}
